@@ -5,4 +5,5 @@
     <string name="motivo">Reason</string>
     <string name="responsable">Responsible</string>
     <string name="nuevo">New Visit</string>
+    <string name="cerrar">CLOSE</string>
 </resources>
