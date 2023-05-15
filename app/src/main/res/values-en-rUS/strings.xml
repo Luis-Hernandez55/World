@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">World</string>
+    <string name="lugar">Place</string>
+    <string name="motivo">Reason</string>
+    <string name="responsable">Responsible</string>
+    <string name="nuevo">New Visit</string>
+</resources>
